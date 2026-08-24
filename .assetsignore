@@ -1,0 +1,11 @@
+.git
+.github
+.wrangler
+_verify
+node_modules
+wrangler.jsonc
+worker.js
+.gitignore
+.assetsignore
+*.md
+Political Views.txt

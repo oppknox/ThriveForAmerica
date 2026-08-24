@@ -33,3 +33,10 @@ jspm_packages/
 # Build directories
 dist/
 build/
+
+# Local verification artifacts
+_verify/
+
+# Wrangler
+.wrangler/
+.dev.vars
